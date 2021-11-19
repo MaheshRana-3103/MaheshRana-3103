@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaheshRana-3103
 - 👀 I’m interested in Problem Solving
-- 🌱 I’m currently learning For an internship
+- 🌱 I’m currently Seeking an internship
 - 📫 How to reach me (My Portfolio link-https://maheshrana-3103.github.io/Portfolio/)
 
 <!---
